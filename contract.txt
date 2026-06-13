@@ -1,0 +1,163 @@
+3PL LOGISTICS SERVICES AGREEMENT
+
+This Agreement is entered into between Northstar Retail Pvt. Ltd. ("Client") and
+Velocity Freight & Warehousing Solutions ("3PL Provider"), effective from
+1st April 2025.
+
+================================================================================
+SECTION 1 — DEFINITIONS
+================================================================================
+
+1.1 "OTIF" means On-Time-In-Full, defined as the percentage of orders delivered
+on or before the scheduled delivery date, with no shortages or discrepancies
+in quantity, as measured against the Purchase Order.
+
+1.2 "SLA" means Service Level Agreement, the performance thresholds defined in
+Section 3 of this Agreement.
+
+1.3 "Cold Chain SKU" means any stock-keeping unit that requires storage and
+transportation within a temperature range of 2°C to 8°C at all times.
+
+1.4 "Force Majeure Event" means any event beyond the reasonable control of
+either party, including but not limited to natural disasters, government
+lockdowns, strikes exceeding 5 consecutive days, and pandemics officially
+declared by the World Health Organization.
+
+================================================================================
+SECTION 2 — SCOPE OF SERVICES
+================================================================================
+
+2.1 The 3PL Provider shall provide warehousing, inventory management,
+order fulfilment, and last-mile delivery services across the following
+zones: North India, West India, and South India.
+
+2.2 The 3PL Provider shall maintain a minimum of 4 operational warehouses
+with a combined storage capacity of no less than 250,000 square feet.
+
+2.3 Cold Chain SKUs shall be stored exclusively in temperature-controlled
+zones equipped with continuous monitoring and automated alerting systems.
+
+================================================================================
+SECTION 3 — SERVICE LEVEL AGREEMENT (SLA)
+================================================================================
+
+3.1 OTIF PENALTY CLAUSE
+
+The 3PL Provider guarantees a minimum OTIF performance of 95% measured on a
+monthly basis. For each percentage point below 95% OTIF in a given month, the
+Client shall be entitled to a penalty deduction equal to 2% of that month's
+total invoice value. The maximum penalty deduction in any single month shall
+not exceed 20% of that month's total invoice value.
+
+Example: If OTIF performance for a month is 91% (4 percentage points below
+the 95% threshold), the penalty shall be 4 x 2% = 8% of that month's invoice
+value.
+
+3.2 PRIORITY ORDER FULFILMENT WINDOW
+
+Orders flagged as "Priority" by the Client must be picked, packed, and
+dispatched within 4 hours of order receipt during operational hours
+(8:00 AM to 8:00 PM, Monday to Saturday). Orders received outside operational
+hours shall be processed within 4 hours of the next operational window.
+
+3.3 STANDARD ORDER FULFILMENT WINDOW
+
+Non-priority orders must be picked, packed, and dispatched within 24 hours
+of order receipt.
+
+3.4 INVENTORY ACCURACY
+
+The 3PL Provider shall maintain a minimum inventory accuracy of 98%, verified
+through monthly cycle counts. Inventory accuracy below 98% in any given month
+shall result in a corrective action plan being submitted by the 3PL Provider
+within 5 business days.
+
+================================================================================
+SECTION 4 — COLD CHAIN REQUIREMENTS
+================================================================================
+
+4.1 MINIMUM ORDER QUANTITY (COLD CHAIN)
+
+For Cold Chain SKUs, the minimum order quantity (MOQ) per dispatch shall be
+50 units per SKU. Orders below this threshold may be consolidated with other
+Cold Chain orders to the same delivery zone, subject to the Priority Order
+Fulfilment Window defined in Section 3.2.
+
+4.2 TEMPERATURE EXCURSION REPORTING
+
+Any temperature excursion outside the 2°C to 8°C range lasting longer than
+30 minutes must be reported to the Client within 2 hours of detection, along
+with the affected SKUs and batch numbers.
+
+================================================================================
+SECTION 5 — RETURNS AND RMA PROCESS
+================================================================================
+
+5.1 RETURN MERCHANDISE AUTHORISATION (RMA) — DAMAGED GOODS
+
+For goods damaged in transit or storage, the following RMA process applies:
+
+  Step 1: The receiving warehouse shall photograph the damaged goods and log
+          the damage in the Warehouse Management System (WMS) within 24 hours
+          of receipt.
+
+  Step 2: A Damage Report, including photographs, SKU details, and quantity,
+          shall be generated and shared with the Client within 48 hours.
+
+  Step 3: The Client shall review the Damage Report and issue an RMA
+          disposition (return to vendor, write-off, or liquidate) within
+          5 business days.
+
+  Step 4: Upon receiving the disposition, the 3PL Provider shall execute the
+          instruction within 3 business days and update the WMS accordingly.
+
+5.2 RMA processing fees are included in the standard service fee and shall
+not be billed separately.
+
+================================================================================
+SECTION 6 — RATE STRUCTURE AND COMMITMENTS
+================================================================================
+
+6.1 The Client commits to a minimum monthly order volume of 15,000 orders
+across all zones combined.
+
+6.2 Should the Client's actual order volume fall below 12,000 orders in any
+given month, a shortfall fee equal to the per-order rate multiplied by the
+difference between 12,000 and the actual volume shall apply.
+
+6.3 Rate escalation: Service rates shall be revised annually on the
+anniversary of the Effective Date, capped at a maximum increase of 6% per
+annum, based on mutually agreed inflation indices.
+
+================================================================================
+SECTION 7 — FORCE MAJEURE
+================================================================================
+
+7.1 Neither party shall be liable for delays or failures in performance
+resulting from a Force Majeure Event, provided that the affected party
+notifies the other party in writing within 48 hours of the event's onset.
+
+7.2 If a Force Majeure Event persists for more than 30 consecutive days,
+either party may terminate this Agreement with 15 days' written notice,
+without penalty.
+
+================================================================================
+SECTION 8 — TERM AND TERMINATION
+================================================================================
+
+8.1 This Agreement shall remain in effect for an initial term of 24 months
+from the Effective Date, automatically renewing for successive 12-month
+periods unless either party provides 90 days' written notice of
+non-renewal.
+
+8.2 Either party may terminate this Agreement for material breach, provided
+the breaching party is given 30 days to cure the breach following written
+notice.
+
+================================================================================
+SIGNATURES
+================================================================================
+
+For Northstar Retail Pvt. Ltd.                For Velocity Freight & Warehousing
+Authorised Signatory                          Authorised Signatory
+Date: 1st April 2025                          Date: 1st April 2025
