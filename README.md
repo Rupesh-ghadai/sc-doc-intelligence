@@ -12,7 +12,7 @@ This is a working build, developed in public as part of a 30-day AI agents learn
 
 🚧 **Day 1 of 30** — project scaffolding and planning complete. Build starts Day 2.
 
-- [ ] Day 2 — CLI tool with direct-context Q&A (no RAG yet)
+- [X] Day 2 — CLI tool with direct-context Q&A (no RAG yet)
 - [ ] Day 3 — Full RAG pipeline (chunking, embeddings, vector search)
 - [ ] Day 4 — Web UI
 - [ ] Day 5 — Deployment + source citations
