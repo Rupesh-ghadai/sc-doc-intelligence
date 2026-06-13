@@ -13,7 +13,7 @@ This is a working build, developed in public as part of a 30-day AI agents learn
 🚧 **Day 1 of 30** — project scaffolding and planning complete. Build starts Day 2.
 
 - [X] Day 2 — CLI tool with direct-context Q&A (no RAG yet)
-- [ ] Day 3 — Full RAG pipeline (chunking, embeddings, vector search)
+- [X] Day 3 — Full RAG pipeline (chunking, embeddings, vector search)
 - [ ] Day 4 — Web UI
 - [ ] Day 5 — Deployment + source citations
 
@@ -34,3 +34,7 @@ This is a working build, developed in public as part of a 30-day AI agents learn
 ## Follow along
 
 This build is documented on [LinkedIn](https://linkedin.com/in/rupeshghadai) as part of a 30-day AI agents sprint.
+
+## Known limitations / future improvements
+- Some chunks contain mostly formatting/headers with little content (due to document's visual section dividers) — a preprocessing step to strip decorative formatting would improve this
+- Local embedding model (all-MiniLM-L6-v2) sometimes ranks tangentially-related chunks above the best match for indirect/paraphrased questions — retrieving top-3+ chunks compensates for this; upgrading to Voyage AI embeddings could improve ranking precision
